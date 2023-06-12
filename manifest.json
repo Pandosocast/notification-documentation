@@ -10,5 +10,17 @@
         "githubPagesUrl": "https://cds-snc.github.io/notification-documentation/renovate/all-non-major-docker-images/review-apps/0c1cdc"
       }
     ]
+  },
+  "renovate/all-non-major-github-action": {
+    "apps": [
+      {
+        "name": "review-apps",
+        "headCommitId": "a36c0d958100074064687c3f635efe8655a48107",
+        "updatedAt": "2023-06-12T19:08:25.156Z",
+        "href": "renovate/all-non-major-github-action/review-apps/a36c0d",
+        "pullRequestUrl": "https://github.com/cds-snc/notification-documentation/pull/118",
+        "githubPagesUrl": "https://cds-snc.github.io/notification-documentation/renovate/all-non-major-github-action/review-apps/a36c0d"
+      }
+    ]
   }
 }
